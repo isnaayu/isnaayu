@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isnaayu
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Javascript, ReactJS, ExpessJS, Golang, Quality Assurance and more
+- 🌱 I’m currently learning Java, Springboot, Javascript, ReactJS, Golang, Quality Assurance and more
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me isnaayu2@gmail.com
 
